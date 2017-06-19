@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-//This program check to see if a number is an Armstrong number
+//This program checks to see if a number is an Armstrong number
         Scanner scanner = new Scanner(System.in); //sets up a new scanner
         System.out.println("Please enter a number:"); //Prompts user to enter a number
 
